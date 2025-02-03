@@ -16,14 +16,14 @@
 ### **🔹 One-Line Installation**
 Run the following command in **Termux** or a **Linux terminal**:  
 ```bash
-curl -s https://raw.githubusercontent.com/unknown/JTR-Installer/main/JTR-Installer.sh | bash
+curl -s https://raw.githubusercontent.com/SciFrozen-Git/JTR-Installer/main/JTR-Installer.sh | bash
 ```
 
 ## 🔹 Manual Installation  
 
 1. **Clone the repository:**  
    ```
-   git clone https://github.com/unknown/JTR-Installer.git
+   git clone https://github.com/SciFrozen-Git/JTR-Installer.git
    cd JTR-Installer
    ```
 
